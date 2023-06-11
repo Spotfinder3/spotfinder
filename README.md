@@ -15,3 +15,7 @@ Empresas: Emprendimientos, startup, empresas, rastaurantes que busquen ampliar s
 -Buscar estacionamientos cercanos mediante búsquedas perzonalizadas y geolocalización
 -Encontrar información sobre estacionamientos (Nro. de estacionamientos disponibles, tarifario , horario de atención y servicios adicionales). 
 -También, se indica las rutas a tomar para llegar al estacionamiento cercano. 
+
+#Manual de Inicio:
+-Se debe ejecutar el archivo index.html
+-Esta dividido en carpetas, se encuentra el archivo styles.css (estilizado del html), main.js para modificar funciones y características.
